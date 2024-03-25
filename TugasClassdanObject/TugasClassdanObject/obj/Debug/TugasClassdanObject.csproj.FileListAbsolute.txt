@@ -1,0 +1,7 @@
+D:\23.11.5722 Junior\Semester 2\TugasClassdanObject\TugasClassdanObject\bin\Debug\TugasClassdanObject.exe.config
+D:\23.11.5722 Junior\Semester 2\TugasClassdanObject\TugasClassdanObject\bin\Debug\TugasClassdanObject.exe
+D:\23.11.5722 Junior\Semester 2\TugasClassdanObject\TugasClassdanObject\bin\Debug\TugasClassdanObject.pdb
+D:\23.11.5722 Junior\Semester 2\TugasClassdanObject\TugasClassdanObject\obj\Debug\TugasClassdanObject.csproj.AssemblyReference.cache
+D:\23.11.5722 Junior\Semester 2\TugasClassdanObject\TugasClassdanObject\obj\Debug\TugasClassdanObject.csproj.CoreCompileInputs.cache
+D:\23.11.5722 Junior\Semester 2\TugasClassdanObject\TugasClassdanObject\obj\Debug\TugasClassdanObject.exe
+D:\23.11.5722 Junior\Semester 2\TugasClassdanObject\TugasClassdanObject\obj\Debug\TugasClassdanObject.pdb
